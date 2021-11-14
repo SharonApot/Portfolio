@@ -4,6 +4,7 @@ img {
 
 body {
     font-family: "Century Gothic";
+    background-image: url("Background.png");
 }
 
 h1 {
