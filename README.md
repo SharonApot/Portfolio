@@ -4,7 +4,7 @@
 ## Description
 This a brief summary of my portfolio, my current job description and my qualifications
 ## Setup/Installation Requirements
-* Viewing of the portfolio doesn't require any set up but can be viewed via link: https://sharonapot.github.io/Portfolio/ on any web or mobile browser
+* Viewing of the portfolio doesn't require any set up but can be viewed via link: https://Shazz-Designing.github.io/Portfolio/ on any web or mobile browser
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
